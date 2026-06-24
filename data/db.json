@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "u_1782138409968_n6n5grimb",
+      "name": "Abhi",
+      "email": "abhi@gmail.com",
+      "phoneNumber": "9898989898",
+      "password": "123456",
+      "joinDate": "22 June 2026"
+    },
+    {
+      "id": "u_1782141376988_9hec1pyve",
+      "name": "Jogeswar",
+      "email": "joge@gmail.com",
+      "phoneNumber": "9989213166",
+      "password": "123456",
+      "joinDate": "22 June 2026"
+    }
+  ],
+  "donations": [
+    {
+      "id": "d_1782141439351_t0m1frtwq",
+      "userId": "u_1782141376988_9hec1pyve",
+      "userName": "Jogeswar",
+      "address": "Visakhapatnam, Andhra Pradesh",
+      "city": "Visakhapatnam",
+      "amount": 60,
+      "foodType": "Veg",
+      "shelterId": "s1",
+      "shelterName": "Prema Samajamu Old Age Home & Orphanage",
+      "shelterPhone": "0891-2552431",
+      "timestamp": "22 Jun 2026, 8:47 pm",
+      "status": "Pending Delivery"
+    },
+    {
+      "id": "d_1782138478252_y7q4hqp8c",
+      "userId": "u_1782138409968_n6n5grimb",
+      "userName": "Abhi",
+      "address": "Visakhapatnam, Andhra Pradesh",
+      "city": "Visakhapatnam",
+      "amount": 60,
+      "foodType": "Veg",
+      "shelterId": "s1",
+      "shelterName": "Prema Samajamu Old Age Home & Orphanage",
+      "shelterPhone": "0891-2552431",
+      "timestamp": "22 Jun 2026, 7:57 pm",
+      "status": "Pending Delivery"
+    }
+  ]
+}

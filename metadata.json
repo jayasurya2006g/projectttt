@@ -1,0 +1,6 @@
+{
+  "name": "MealBridge AI",
+  "description": "Connecting food donors with verified old age homes, orphanages, and Anadhasramas in Andhra Pradesh, featuring AI-powered quantity calculations to minimize waste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
